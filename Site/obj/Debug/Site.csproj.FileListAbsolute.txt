@@ -1,0 +1,72 @@
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\obj\Debug\Site.csprojResolveAssemblyReference.cache
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\bin\ApplicationInsights.config
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\bin\roslyn\csc.exe
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\bin\roslyn\System.Collections.Immutable.dll
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\bin\roslyn\vbc.exe
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\bin\roslyn\VBCSCompiler.exe
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\bin\roslyn\VBCSCompiler.exe.config
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\bin\Site.dll.config
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\bin\Site.dll
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\bin\Site.pdb
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\bin\DAL.dll
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\bin\Microsoft.AI.Web.dll
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\bin\Microsoft.AI.WindowsServer.dll
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\bin\Microsoft.ApplicationInsights.dll
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\bin\DAL.pdb
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\bin\Microsoft.AI.Web.xml
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\bin\Microsoft.AI.WindowsServer.xml
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\bin\Microsoft.ApplicationInsights.xml
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\obj\Debug\Site.dll
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\Site\obj\Debug\Site.pdb
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\bin\ApplicationInsights.config
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\bin\roslyn\csc.exe
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\bin\roslyn\vbc.exe
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\bin\roslyn\VBCSCompiler.exe
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\bin\Site.dll.config
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\bin\Site.dll
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\bin\Site.pdb
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\bin\DAL.dll
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\bin\Microsoft.AI.Web.dll
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\bin\Microsoft.ApplicationInsights.dll
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\bin\DAL.pdb
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\bin\Microsoft.AI.Web.xml
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\bin\Microsoft.ApplicationInsights.xml
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\obj\Debug\Site.dll
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\obj\Debug\Site.pdb
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\obj\Debug\Site.csprojAssemblyReference.cache
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\obj\Debug\Site.csproj.CoreCompileInputs.cache
+C:\Users\vay-n\Desktop\OFICINACRUD\Site\obj\Debug\Site.csproj.CopyComplete

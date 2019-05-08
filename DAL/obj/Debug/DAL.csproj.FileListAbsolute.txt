@@ -1,0 +1,11 @@
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\DAL\bin\Debug\DAL.dll
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\DAL\bin\Debug\DAL.pdb
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\DAL\obj\Debug\DAL.dll
+c:\users\vay-n\documents\visual studio 2015\Projects\OFICINACRUD\DAL\obj\Debug\DAL.pdb
+C:\Users\vay-n\Desktop\OFICINACRUD\DAL\bin\Debug\DAL.dll
+C:\Users\vay-n\Desktop\OFICINACRUD\DAL\bin\Debug\DAL.pdb
+C:\Users\vay-n\Desktop\OFICINACRUD\DAL\obj\Debug\DAL.dll
+C:\Users\vay-n\Desktop\OFICINACRUD\DAL\obj\Debug\DAL.pdb
+C:\Users\vay-n\Desktop\OFICINACRUD\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\vay-n\Desktop\OFICINACRUD\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
